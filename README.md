@@ -18,4 +18,5 @@ Database migration means moving data from one database system to another. In thi
 To make this process easier, we can use a tool called pgloader, which automatically converts and imports the data. If this tool is unavailable, we can manually edit the SQL file to fix any differences. After importing the data into PostgreSQL using the psql command, we need to check if everything was transferred correctly. We do this by counting the number of rows in both databases and running some test queries to compare the results.
 
 OUTPUT:
-(https://github.com/user-attachments/assets/e6f7412d-b948-48e6-9338-823db70ed0c8)
+
+[TASK.3.DATABASE.MIGRATION.txt](https://github.com/user-attachments/files/18808806/TASK.3.DATABASE.MIGRATION.txt)
